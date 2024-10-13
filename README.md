@@ -1,7 +1,7 @@
 <p align="center"> Hi, I'm Jaesung! 👋</p>
 
-<p align="center">🚀 I am aspiring to become a backend engineer.</p>
-<p align="center">📄 Here is a brief information about myself.</p>
+<p align="center">🚀 I am aspiring to become a backend engineer</p>
+<p align="center">📄 Here is a brief information about myself</p>
 <p align="center">🙏 Thank you for visiting my GitHub!</p>
 
 ### <p align="center">🛠️ Technologies & Tools</p>
